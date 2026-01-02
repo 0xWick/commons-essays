@@ -1,10 +1,14 @@
 ---
 title: Intelligent Women - Pilot
-author: Muhammad Umar Khatana
-tags: philosophy, psychology
+author: Umar
+tags: philosophy, psychology, Muhammad Umar Khatana
+date: 2026-01-02
+
 ---
 
 `Nothing is so necessary for a young man as the company of intelligent women.”` — Leo Tolstoy
+
+<img src="/assets/5e0cf584246b6de7d26058c43b397f44.jpg" alt="Women Standing on shore" width="450" style="float:right; margin: 0 0 1em 1em;" />
 
 Not a long time ago I only considered women to be just a merry company and biological emotion regulators. Never thought there would be something as profound as an intelligent women. Pardon my bluntness but I must make an exception here that to me intelligence of men and women was a very vain and wrong comparison. Let me explain.
 
