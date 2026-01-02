@@ -1,8 +1,12 @@
 ---
 title: Welcome to Commons Essays
-author: Muhammad Umar Khatana, Shahraiz Imtiaz Malik, Fahad Afzaal Rana
+author: Muhammad Umar Khatana
 ---
 
-A small record of philosophy, psychology, religion, and other doubtful things.
+Welcome to **Commons Essays**, a collaborative writing and reading club exploring philosophy, psychology, religion, strategy, and other curious ideas.  
 
-Written by several hands.
+Our space hosts **essays, reflections, analyses, and thought experiments**, covering topics that challenge the mind and explore human nature.  
+
+The club is created and maintained by **Muhammad Umar Khatana** (publisher/admin), **Shahraiz Imtiaz Malik**, and **Fahad Afzaal Rana** — three writers sharing insights from multiple perspectives.  
+
+Join us as we question, analyze, and record ideas for curious minds.
