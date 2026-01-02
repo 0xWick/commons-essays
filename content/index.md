@@ -1,5 +1,5 @@
 ---
-title: Welcome to Commons Essays
+title: Commons Essays
 author: Muhammad Umar Khatana
 date: 2026-01-02
 ---

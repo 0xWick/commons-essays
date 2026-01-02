@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Commons Essays",
-    pageTitleSuffix: "where good guys come to die...",
+    pageTitleSuffix: " where good guys come to die...",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
