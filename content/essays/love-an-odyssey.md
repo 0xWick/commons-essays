@@ -1,8 +1,9 @@
 ---
 title: Love: An Eternal Odyssey Between Union and Selfhood
 author: Shahraiz Imtiaz
-tags: philosophy, psychology, love, Shahraiz Imtiaz
+tags: philosophy, psychology, love, Shahraiz Imtiaz Malik
 date: 2026-01-09
+
 ---
 
 **Love is inexplicable.**  
@@ -17,3 +18,7 @@ Love seeks eternal unification; Sufism finds such justification in monoism. As G
 Love also seeks sacrifice, yet sacrifice of love remains the hardest of the sacrifices. One often negates oneself to preserve love. At such junction, my paths are diverged. Sacrifice of the self and individuality is not worthwhile for any matter, emotion, and idea. If one ceases to exist, how can he pursue love?
 
 One might say, you will remain alive in the mind of your loved one, in his or her symphony of thoughts, but such perception is beyond my existence. Yet, love remains a trial—neither she is guilty nor I am, only offenders.
+
+---
+**About the Author**  
+This essay was written by **Shahraiz Imtiaz Malik**. Connect with him on [Instagram](https://www.instagram.com/shahraiz_imtiaz/?hl=en).
