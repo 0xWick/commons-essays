@@ -8,7 +8,7 @@ date: 2026-01-09
 
 **Love is inexplicable.**  
 
-<img src="/assets/e8fc2d886730ff8fb7e41747f7f1ad7a" alt="Odysseus and Love" width="450" style="float:right; margin: 0 0 1em 1em;" />
+<img src="/assets/e8fc2d886730ff8fb7e41747f7f1ad7a.jpg" alt="Odysseus and Love" width="450" style="float:right; margin: 0 0 1em 1em;" />
 
 It is a beautiful feeling, the most precious one which a man can ever feel. It is sharing your inner self with the loved one—from sharing daily happenings to the traumas, obscure fears, and emotions. It seeks unification of two souls, minds, and hearts. It is an eternal odyssey for two distinct souls to become one, mostly a failed journey.
 
