@@ -1,5 +1,5 @@
 ---
-title: Love: An Eternal Odyssey Between Union and Selfhood
+title: "Love: An Eternal Odyssey Between Union and Selfhood"
 author: Shahraiz Imtiaz
 tags: philosophy, psychology, love, Shahraiz Imtiaz Malik
 date: 2026-01-09
