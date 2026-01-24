@@ -1,6 +1,7 @@
 ---
 name: Shahraiz Imtiaz Malik
 bio: Interested in current affairs, philosophy, and societal analysis.
+tags: Shahraiz Imtiaz Malik, Intro
 date: 2026-01-02
 
 ---
