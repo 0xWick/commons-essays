@@ -1,11 +1,42 @@
-# Quartz v4
+# Commons Essays
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+**Welcome to Commons Essays** – a collaborative writing and reading club exploring philosophy, psychology, religion, strategy, and other curious ideas.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Our space hosts essays, reflections, analyses, and thought experiments, covering topics that challenge the mind and explore human nature.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## About
+
+Commons Essays is created and maintained by:
+
+- **Muhammad Umar Khatana** – Publisher/Admin. I write and curate essays on philosophy, psychology, strategy, and human behavior.  
+- **Shahraiz Imtiaz Malik** – Contributor and co-writer.  
+- **Fahad Afzaal Rana** – Contributor and co-writer.  
+
+We share insights from multiple perspectives, encouraging readers to question, analyze, and reflect on ideas.
+
+## Essays
+
+Explore essays authored by our team in the **Essays** section. Topics include:
+
+- Philosophy  
+- Psychology  
+- Strategy  
+- Human behavior  
+- Religion  
+- Thought experiments  
+
+Example essays:
+
+- *Love: An Odyssey*  
+- *Intelligent Women Pilot*  
+
+## Join Us
+
+We invite curious minds to read, reflect, and contribute. Together, we explore ideas that challenge the ordinary and illuminate human nature.
+
+---
+
+**Made by Quartz**
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
